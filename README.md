@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shahd Ashraf</h1>
-- 📫 How to reach me **shahdashraf66@outlook.com , https://www.linkedin.com/in/shahdashraf2/**
+<h3 align="center">Connect with me: </h3>
+
+<p align="center">
+  <a href="mailto:shahdashraf66@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahdashraf2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
